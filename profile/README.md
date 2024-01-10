@@ -1,6 +1,6 @@
 # SGQR Pro Max
 
-**DeFi Payment System, using Singapore's Standardised E-Payment QR Codes, powered by XRP Ledger && XRP Ledger EVM Side Chain**
+**SGQR DeFi Payment System, using Singapore's Standardised E-Payment QR Codes, powered by XRP Ledger && XRP Ledger EVM Side Chain**
 
 <div align="center">
 <img 
