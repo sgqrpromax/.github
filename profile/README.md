@@ -9,6 +9,10 @@
 />
 </div>
 
+## 📝 Report
+
+[SGQR Pro Max Report](https://docs.google.com/document/d/1gl4Az8Ru_RCtfZpL4rT_4Ridk-icp56TpXDgvwWStM0)
+
 ## 🕧 Introduction
 
 SGQR is the world’s first unified payment QR code system. It combines multiple payment QR codes into a single SGQR label, making QR payments in Singapore simple for both consumers and merchants.
