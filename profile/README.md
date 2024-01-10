@@ -68,6 +68,14 @@ Anyone owning a mobile phone with a **camera**, **data connectivity**, and an **
 - **EVM Side Chain**: We used the EVM side chain to hold all the smart contract backend, enabling payment processing for everyone in Singapore.
 - **Tech Stack**: React, JavaScript, HTML, CSS, Foundry, Solidity, Python.
 
+## ⌚️ Timeline
+
+<div align="center">
+<img 
+  src="https://github.com/sgqrpromax/.github/blob/main/assets/sgqrpromax-timeline.jpg"
+/>
+</div>
+
 ## 🔧 Contributing
 
 We welcome any feedback, improvements, and amendments to these repositories 🙌 :
