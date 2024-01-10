@@ -52,7 +52,7 @@ Anyone owning a mobile phone with a **camera**, **data connectivity**, and an **
 <div align="center">
 <img 
   src="https://github.com/sgqrpromax/.github/blob/main/assets/sgqrpromax-token-bridge.jpg"
-    style="width:60% ; height:60%;"
+    style="width:75% ; height:75%;"
 />
 </div>
 
