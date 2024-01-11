@@ -4,7 +4,7 @@
 
 <div align="center">
 <img 
-  src="https://github.com/sgqrpromax/.github/blob/main/assets/logo-grey.png" 
+  src="/assets/logo-grey.png" 
   style="width:40% ; height:40%;"
 />
 </div>
@@ -12,6 +12,7 @@
 ## 📝 Report
 
 [SGQR Pro Max Report](https://docs.google.com/document/d/1gl4Az8Ru_RCtfZpL4rT_4Ridk-icp56TpXDgvwWStM0)
+[Video demonstration](https://www.youtube.com/watch?v=NgOn1ZzMZlw)
 
 ## 🕧 Introduction
 
