@@ -1,6 +1,6 @@
 # SGQR Pro Max
 
-**SGQR DeFi Payment System, using Singapore's Standardised E-Payment QR Codes, powered by XRP Ledger && EVM Side Chain**
+First **SGQR DeFi Payment System**, using [Singapore's Standardised E-Payment QR Codes (SGQR)](https://www.mas.gov.sg/development/e-payments/sgqr), powered by **XRP Ledger** && **EVM Side Chain**
 
 <div align="center">
 <img 
@@ -18,7 +18,7 @@
 
 SGQR is the world’s first unified payment QR code system. It combines multiple payment QR codes into a single SGQR label, making QR payments in Singapore simple for both consumers and merchants.
 
-With cryptocurrency gaining popularity, and Ripple securing a Singapore payments license in 2023, cryptocurrency as a mode of payment in the world becomes an inevitable future. That's where **SGQR Pro Max** swings in!
+With cryptocurrency gaining popularity, and Ripple securing a Singapore payments license in 2023, cryptocurrency as a mode of payment in the Singapore becomes an inevitable future. That's where **SGQR Pro Max** swings in!
 
 SGQR Pro Max leverages **SGQR's unified payment QR Code** and **XRP Ledger** to provide a **DeFi payments alternative**.
 
@@ -42,9 +42,9 @@ Anyone owning a mobile phone with a **camera**, **data connectivity**, and an **
 
 ## ✨ Features
 
-1. 😌 **Pre-onboarded Users**: Users can scan easily existing SGQR Codes and make payments in cryptocurrency.
+1. 😌 **Pre-onboarded Users**: Users can scan existing SGQR Codes and make payments in cryptocurrency ➡️ Made possible by scripts created by us that uploads all the Merchant UEN onto the XRPL Blockchain,
 
-2. 🏘️ **Ease of Use**: Anyone owning a mobile phone with a camera, data connectivity, and an EVM Wallet will be able to make payments
+2. 🏘️ **Ease of Use**: Anyone owning a mobile phone with a camera, data connectivity, and an EVM Wallet will be able to make payments.
 
 3. 🪫 **Low Fees**: XRP Ledger lowers the associated fees exponentially for both the merchant and the user.
 
