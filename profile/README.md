@@ -1,6 +1,6 @@
 # SGQR Pro Max
 
-**SGQR DeFi Payment System**, using [Singapore's Standardised E-Payment QR Codes (SGQR)](https://www.mas.gov.sg/development/e-payments/sgqr), powered by **XRPL** && **EVM Side Chain**
+**SGQR DeFi Payment System**, using [Singapore's E-Payment QR Codes (SGQR)](https://www.mas.gov.sg/development/e-payments/sgqr), powered by **XRPL** && **EVM Side Chain**
 
 <div align="center">
 <img 
@@ -11,7 +11,7 @@
 
 ## 📝 Report
 
-[SGQR Pro Max Report](https://docs.google.com/document/d/1gl4Az8Ru_RCtfZpL4rT_4Ridk-icp56TpXDgvwWStM0)
+[SGQR Pro Max Report](https://docs.google.com/document/d/1gl4Az8Ru_RCtfZpL4rT_4Ridk-icp56TpXDgvwWStM0) <br/>
 [Video demonstration](https://www.youtube.com/watch?v=NgOn1ZzMZlw)
 
 ## 🕧 Introduction
